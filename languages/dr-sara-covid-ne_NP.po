@@ -1,0 +1,172 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: SARA Covid\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-05-02 02:47+0000\n"
+"PO-Revision-Date: 2020-05-02 03:03+0000\n"
+"Last-Translator: \n"
+"Language-Team: Nepali\n"
+"Language: ne_NP\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.3.3; wp-5.4.1"
+
+#: admin/class-dr-sara-covid-admin.php:170
+msgid "Dashboard"
+msgstr "गाडीको"
+
+#: admin/class-dr-sara-covid-admin.php:171
+msgid "Basic Options"
+msgstr "आधारभूत विकल्प"
+
+#: admin/class-dr-sara-covid-admin.php:204
+msgid ""
+"<div class=\"dr-sara-dashboard\">\n"
+"\t\t<h3> Welcome To DR SARA Covid Records.</h3>\n"
+"\t\t<p>Note: If you are using this plugin for first time, Please Go To <b><i>"
+"DR SARA Covid > Settings</i></b> and click on Save Changes button.</p>\n"
+"\t\t</div>"
+msgstr ""
+"<div class=\"dr-sara-dashboard\">\n"
+"\t\t<h3> \n"
+"DR SARA Covid अभिलेखमा स्वागत छ।</h3>\n"
+"\t\t<p>\n"
+"नोट: यदि तपाई यो प्लगइन पहिलो पटक प्रयोग गर्दै हुनुहुन्छ भने कृपया जानुहोस् "
+"<b><i>DR SARA Covid > सेटिंग्समा</i></b> जानुहोस् र सेभ परिवर्तन बटनमा क्लिक "
+"गर्नुहोस्</p>\n"
+"\t\t</div>"
+
+#: admin/class-dr-sara-covid-admin.php:267
+msgid "Hide/Show"
+msgstr "लुकाउन/देखाउन"
+
+#: admin/class-dr-sara-covid-admin.php:277
+msgid "Hide Country Flag"
+msgstr "लुकाउन देशको झण्डा"
+
+#: admin/class-dr-sara-covid-admin.php:278
+msgid "Show Country Flag"
+msgstr "देशको झण्डा देखाउनुहोस्"
+
+#: admin/class-dr-sara-covid-admin.php:289
+msgid "Hide Zero Value Data"
+msgstr "लुकाउन शून्य मूल्य डाटा"
+
+#: admin/class-dr-sara-covid-admin.php:290
+msgid "Show Zero Value Data"
+msgstr "शो शून्य मूल्य डाटा"
+
+#: admin/class-dr-sara-covid-admin.php:299
+msgid "Post/Page"
+msgstr "पोस्ट/पृष्ठ हेर्नुहोस्"
+
+#: admin/class-dr-sara-covid-admin.php:309
+msgid "Hide On Post Footer"
+msgstr "मा लुकाउन पोस्ट फुटर"
+
+#: admin/class-dr-sara-covid-admin.php:310
+msgid "Show On Post Footer"
+msgstr "शो मा पोस्ट फुटर"
+
+#: admin/class-dr-sara-covid-admin.php:321
+msgid "Hide On Page Footer"
+msgstr "मा लुकाउन पृष्ठ फुटर"
+
+#: admin/class-dr-sara-covid-admin.php:322
+msgid "Show On Page Footer"
+msgstr "देखाउनुहोस् पृष्ठ फुटर"
+
+#: admin/dr-sara-covid.php:29
+msgid "Today Records"
+msgstr "आज रेकर्ड"
+
+#: admin/dr-sara-covid.php:30
+msgid "Yestarday Records"
+msgstr "Yestarday रेकर्ड"
+
+#: admin/dr-sara-covid.php:34
+msgid "\" height=\"15px\" width=\"15px\" />"
+msgstr ""
+
+#: admin/dr-sara-covid.php:42 admin/dr-sara-covid.php:49
+msgid "Total Cases"
+msgstr "कुल अवस्थामा"
+
+#: admin/dr-sara-covid.php:61
+msgid "Today Cases"
+msgstr "आज अवस्थामा"
+
+#: admin/dr-sara-covid.php:61
+msgid "Yestarday Cases"
+msgstr "Yestarday अवस्थामा"
+
+#: admin/dr-sara-covid.php:70
+msgid "Total Deaths"
+msgstr "कुल मृत्यु"
+
+#: admin/dr-sara-covid.php:78
+msgid "Today Deaths"
+msgstr "आज को मृत्यु"
+
+#: admin/dr-sara-covid.php:86
+msgid "Active"
+msgstr "सक्रिय"
+
+#: admin/dr-sara-covid.php:95
+msgid "Critical"
+msgstr "डरलाग्दो"
+
+#: admin/dr-sara-covid.php:103
+msgid "Cases Per One Million"
+msgstr "अवस्थामा प्रति एक लाख"
+
+#: admin/dr-sara-covid.php:112
+msgid "Deaths Per One Million"
+msgstr "मृत्यु प्रति एक लाख"
+
+#: admin/dr-sara-covid.php:120
+msgid "Total Tests"
+msgstr "कुल परीक्षण"
+
+#: admin/dr-sara-covid.php:129
+msgid "Tests Per One Million"
+msgstr "परीक्षण प्रति एक लाख"
+
+#: admin/dr-sara-covid.php:137
+msgid "Recovered"
+msgstr "बरामद"
+
+#: admin/dr-sara-covid.php:148
+msgid "Affected Countries"
+msgstr "प्रभावित देशका"
+
+#. Name of the plugin
+msgid "SARA Covid"
+msgstr "सारा Covid"
+
+#. Description of the plugin
+msgid ""
+"The main propose of this plugin is to view COVID-19 case statistics in "
+"worldwide. you can easily install the plugin and use the shortcode to view "
+"the data on their website.our latest version with more features will be "
+"coming soon. This plugin is free to use."
+msgstr ""
+"यस प्लगइनको मुख्य प्रस्ताव विश्वव्यापी रूपमा COVID-19 केस तथ्यांकहरू हेर्नु "
+"हो।. तपाईं सजिलै प्लगइन स्थापना र यो shortcode प्रयोग गर्न, डाटा हेर्न आफ्नो "
+"वेबसाइट मा.हाम्रो नवीनतम संस्करण संग, अधिक सुविधाहरू हुनेछ चाँडै आउँदै । यो "
+"प्लगइन निःशुल्क प्रयोग गर्न छ."
+
+#. URI of the plugin
+msgid "drsaracovid"
+msgstr "drsaracovid"
+
+#. Author of the plugin
+msgid "Sarala & Ravi"
+msgstr "सरला र रवि "
+
+#. Author URI of the plugin
+msgid "http://khadkaravi.com.np/"
+msgstr ""
